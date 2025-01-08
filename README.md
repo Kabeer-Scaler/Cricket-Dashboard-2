@@ -1,3 +1,4 @@
+Cricket Analytics Dashboard
 1. Project Overview
 Project Name: Cricket Analytics Dashboard
 Description: A web-based platform to track real-time cricket scores, player statistics, and match analytics with interactive visualizations.
