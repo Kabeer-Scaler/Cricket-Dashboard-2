@@ -1,4 +1,4 @@
-const API_URL = 'https://api.cricapi.com/v1/cricScore?apikey=ea64e3ee-94cc-4755-a3a6-4e1d9a04029b';
+const API_URL = 'https://api.cricapi.com/v1/currentMatches?apikey=ea64e3ee-94cc-4755-a3a6-4e1d9a04029b&offset=0';
 const liveScoresDiv = document.getElementById('scores-list');
 
 function fetchAndDisplayScores() {
